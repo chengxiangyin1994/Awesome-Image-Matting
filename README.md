@@ -87,6 +87,8 @@ Strong Data Augmentation [arXiv 2022] [Paper](https://arxiv.org/abs/2201.06889)
 
 ## Dataset & BenchMark
 
+
+- VideoMatte: [Dataset](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets), [Paper](https://arxiv.org/abs/2012.07810)
 - alphamatting: [www.alphamatting.com](www.alphamatting.com)
 - Compostition-1K: [Please Email the Author](https://sites.google.com/view/deepimagematting)
 - Distinctions-646: [Please Email the Author](https://wukaoliu.github.io/HAttMatting/)
