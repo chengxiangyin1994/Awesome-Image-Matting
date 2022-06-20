@@ -6,7 +6,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - [x] Video Matting
 
 
-#### :star: If you find this repo useful, please star it!!
+<!-- #### :star: If you find this repo useful, please star it!! -->
 
 ## Background
 
